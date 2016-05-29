@@ -1,0 +1,60 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../material.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./../art/box.png</path>
+			<color>1b1b1b</color>
+		</image>
+
+		<image name="logo">
+			<path>./3do.svg</path>
+		</image>
+		
+		<helpsystem name="help">
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+		</helpsystem>
+		
+	</view>
+
+	<view name="basic, detailed">
+	
+		<image name="header" extra="true">
+			<path>./../art/box.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 0.16</size>
+			<color>1b1b1b</color>
+		</image>
+		
+		<image name="footer" extra="true">
+			<path>./../art/box.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.065</size>
+			<color>1b1b1b</color>
+		</image>
+
+		<image name="logo">
+			<path>./art/logo.svg</path>
+			<pos>0.400 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+			<color>ffffff</color>
+		</image>
+	</view>
+
+	<view name="basic">
+	</view>
+	
+	<view name="detailed">
+	</view>
+	
+</theme>
