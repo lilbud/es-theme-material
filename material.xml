@@ -1,0 +1,116 @@
+<!--
+theme name:		material
+version:		1.0
+author:			Lilbud
+email:			bvw20002010@gmail.com
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+    <formatVersion>3</formatVersion>
+
+	<view name="system">
+	
+		<image name="background" extra="true">
+			<size>0 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<path>./art/box.png</path>
+			<color>c0c0c0</color>
+		</image>
+	
+		<helpsystem name="help">
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+		</helpsystem>
+	
+	</view>
+
+	<view name="basic, detailed">
+
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.12 0.04</size>
+			<pos>1 1</pos>
+		</text>
+
+		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.14 0.04</size>
+			<pos>1 1</pos>
+		</text>
+
+		<helpsystem name="help">
+			<textColor>ffffffff</textColor>
+			<iconColor>ffffffff</iconColor>
+		</helpsystem>		
+		
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0 0.04</size>
+			<pos>1 1</pos>
+		</datetime>
+		
+		<image name="background">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./art/box.png</path>
+			<color>cfcfcf</color>
+		</image> 
+
+	</view>
+
+	<view name="basic">
+		
+		<textlist name="gamelist">
+			<selectorColor>22313f</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>000000</primaryColor>
+			<secondaryColor>000000</secondaryColor>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<pos>0.550 0.28</pos>
+			<size>0.360 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+	
+	</view>
+
+	<view name="detailed">
+	
+		<textlist name="gamelist">
+			<selectorColor>22313f</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>000000</primaryColor>
+			<secondaryColor>000000</secondaryColor>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<pos>0.550 0.28</pos>
+			<size>0.360 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>	
+		
+		<image name="md_image">
+			<pos>0.30 0.53</pos>
+			<size>0.301 0.501</size>
+			<maxSize>0.500 0.501</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+	</view>
+	
+</theme>
