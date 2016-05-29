@@ -1,15 +1,14 @@
 # es-theme-material
-Theme 'Material' v1.0 - 05-29-2016 by Lilbud
+Theme 'Material' v1.3 - 05-29-2016 by Lilbud
 based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
 For use with EmulationStation (http://www.emulationstation.org/)
 
+Thanks to Herbfargus and Rookervik for testing and helping get this theme functional.
 
 Changelog
 =========
 
-05-29-2016
-v1.0 Initial version
-
+Fixed White/Black screen of death
 
 Missing systems in the theme
 ============================
@@ -19,9 +18,6 @@ Kodi
 Famicom
 Famicom Disk System
 Super Famicom
-
-
-
 
 License
 =======
