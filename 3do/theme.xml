@@ -43,7 +43,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/logo.svg</path>
+			<path>./logo.svg</path>
 			<pos>0.400 0.0775</pos>
 			<maxSize>0.55 0.1</maxSize>
 			<origin>0 0.5</origin>
