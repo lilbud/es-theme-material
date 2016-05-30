@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/a800.svg</path>
+			<path>./a800.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -43,7 +43,7 @@
 		</image>
 		
 		<image name="logo">
-			<path>./art/logo.png</path>
+			<path>./logo.svg</path>
 			<pos>0.325 0.079</pos>
 			<maxSize>0.55 0.1</maxSize>
 			<origin>0 0.5</origin>
