@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/a5200.svg</path>
+			<path>./a5200.svg</path>
         </image>
 		
 		<helpsystem name="help">
