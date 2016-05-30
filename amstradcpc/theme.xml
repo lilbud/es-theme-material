@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/cpc.svg</path>
+			<path>./cpc.svg</path>
         </image>
 		
 		<helpsystem name="help">
