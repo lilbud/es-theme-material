@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/apple2.svg</path>
+			<path>./apple2.svg</path>
         </image>
 		
 		<helpsystem name="help">
