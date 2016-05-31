@@ -14,9 +14,13 @@ Missing systems in the theme
 ============================
 
 Multiple Emulator Super System
+
 Kodi
+
 Famicom
+
 Famicom Disk System
+
 Super Famicom
 
 License
