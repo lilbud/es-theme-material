@@ -76,7 +76,7 @@
 
 		<image name="md_image">
 			<pos>0.30 0.53</pos>
-			<maxSize>0.221 0.501</maxSize>
+			<maxSize>0.432 0.357</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 		
