@@ -65,7 +65,7 @@ license:		creative commons CC-BY-NC-SA
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./art/box.png</path>
-			<color>cfcfcf</color>
+			<color>424242</color>
 		</image> 
 
 	</view>
@@ -75,8 +75,8 @@ license:		creative commons CC-BY-NC-SA
 		<textlist name="gamelist">
 			<selectorColor>22313f</selectorColor>
 			<selectedColor>ffffff</selectedColor>
-			<primaryColor>000000</primaryColor>
-			<secondaryColor>000000</secondaryColor>
+			<primaryColorffffff</primaryColor>
+			<secondaryColor>ffffff/secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
@@ -93,8 +93,8 @@ license:		creative commons CC-BY-NC-SA
 		<textlist name="gamelist">
 			<selectorColor>22313f</selectorColor>
 			<selectedColor>ffffff</selectedColor>
-			<primaryColor>000000</primaryColor>
-			<secondaryColor>000000</secondaryColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
