@@ -52,14 +52,17 @@
 	</view>
 
 	<view name="basic">
-	
 		<textlist name="gamelist">
+			<selectorColor>2e3192</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontSize>0.03</fontSize>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
-		
 	</view>
 
 	<view name="detailed">
@@ -121,7 +124,7 @@
 
 		<datetime name="md_lastplayed">
 			<pos>1 1</pos>
-        </datetime>
+        	</datetime>
 		
 		<text name="md_players">
 			<pos>1 1</pos>
@@ -156,12 +159,15 @@
 		</text>
 		
 		<textlist name="gamelist">
+			<selectorColor>2e3192</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontSize>0.03</fontSize>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
-
 	</view>
-	
 </theme>
