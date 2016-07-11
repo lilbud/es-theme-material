@@ -75,11 +75,11 @@ license:		creative commons CC-BY-NC-SA
 		<textlist name="gamelist">
 			<selectorColor>22313f</selectorColor>
 			<selectedColor>ffffff</selectedColor>
-			<primaryColorffffff</primaryColor>
-			<secondaryColor>ffffff/secondaryColor>
+			<primaryColor></primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
-			<forceUppercase>1</forceUppercase>
+			<forceUppercase>0</forceUppercase>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
@@ -97,7 +97,7 @@ license:		creative commons CC-BY-NC-SA
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
-			<forceUppercase>1</forceUppercase>
+			<forceUppercase>0</forceUppercase>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
 			<alignment>left</alignment>
