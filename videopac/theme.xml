@@ -49,6 +49,18 @@
 			<color>e00000</color>
 		</image>
 		
+		<textlist name="gamelist">
+			<selectorColor>e00000</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontSize>0.03</fontSize>
+			<pos>0.550 0.28</pos>
+			<size>0.360 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
 	</view>
 
 	<view name="basic">
