@@ -52,9 +52,31 @@
 	</view>
 
 	<view name="basic">
+		<textlist name="gamelist">
+			<selectorColor>1b1b1b</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontSize>0.03</fontSize>
+			<pos>0.550 0.28</pos>
+			<size>0.360 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
 	</view>
 	
 	<view name="detailed">
+		<textlist name="gamelist">
+			<selectorColor>1b1b1b</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontSize>0.03</fontSize>
+			<pos>0.550 0.28</pos>
+			<size>0.360 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
 	</view>
 	
 </theme>
