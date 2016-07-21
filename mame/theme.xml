@@ -88,7 +88,7 @@
 
 		<image name="md_image">
 			<pos>0.30 0.53</pos>
-			<maxSize>0.301 0.301</maxSize>
+			<maxSize>0.501 0.501</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 		
