@@ -66,9 +66,9 @@
 	<view name="basic">
 	
 		<textlist name="gamelist">
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
+			<pos>0.550 0.034</pos>
+			<size>0.933 0.50</size>
+			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 		
