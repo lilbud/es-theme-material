@@ -17,11 +17,6 @@
 			<path>./ami.svg</path>
         </image>
 		
-		<helpsystem name="help">
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-		</helpsystem>
-		
 	</view>
 
 	<view name="basic, detailed">
@@ -45,34 +40,17 @@
 			<size>1 0.065</size>
 			<color>ff0000</color>
 		</image>
+		
+		<textlist name="gamelist">
+			<selectorColor>ff0000</selectorColor>
+		</textlist>
+	
 	</view>
 
 	<view name="basic">
-		<textlist name="gamelist">
-			<selectorColor>ff0000</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontSize>0.03</fontSize>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-		</textlist>	
 	</view>
 
 	<view name="detailed">
-		<textlist name="gamelist">
-			<selectorColor>ff0000</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontSize>0.03</fontSize>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-		</textlist>
 	</view>
 	
 </theme>

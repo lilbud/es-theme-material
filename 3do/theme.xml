@@ -17,11 +17,6 @@
 			<path>./3do.svg</path>
 		</image>
 		
-		<helpsystem name="help">
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-		</helpsystem>
-		
 	</view>
 
 	<view name="basic, detailed">
@@ -44,39 +39,18 @@
 
 		<image name="logo">
 			<path>./logo.svg</path>
-			<pos>0.400 0.0775</pos>
-			<maxSize>0.55 0.1</maxSize>
-			<origin>0 0.5</origin>
-			<color>ffffff</color>
 		</image>
+		
+		<textlist name="gamelist">
+			<selectorColor>1b1b1b</selectorColor>
+		</textlist>
+	
 	</view>
 
 	<view name="basic">
-		<textlist name="gamelist">
-			<selectorColor>1b1b1b</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontSize>0.03</fontSize>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-		</textlist>
 	</view>
 	
 	<view name="detailed">
-		<textlist name="gamelist">
-			<selectorColor>1b1b1b</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontSize>0.03</fontSize>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-		</textlist>
 	</view>
 	
 </theme>

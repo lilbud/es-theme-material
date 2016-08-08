@@ -17,11 +17,6 @@
 			<path>./a800.svg</path>
         </image>
 		
-		<helpsystem name="help">
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-		</helpsystem>
-		
 	</view>
 
 	<view name="basic, detailed">
@@ -44,24 +39,13 @@
 		
 		<image name="logo">
 			<path>./logo.svg</path>
-			<pos>0.325 0.079</pos>
-			<maxSize>0.55 0.1</maxSize>
-			<origin>0 0.5</origin>
 		</image>
 		
 		<textlist name="gamelist">
 			<selectorColor>367fc8</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-			<fontSize>0.03</fontSize>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 	
-		</view>
+	</view>
 
 	<view name="basic">
 	</view>
