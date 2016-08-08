@@ -19,7 +19,7 @@
 			
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, grid">
 	
 		<image name="header" extra="true">
 			<path>./../art/box.png</path>
