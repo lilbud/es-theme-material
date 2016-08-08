@@ -55,7 +55,7 @@
 	<view name="grid">
 		
 		<text name="md_grid">
-			<pos>0.02 0.2</pos>
+			<pos>0.02 0.22</pos>
 			<size>0.950 0.7</size>
 		</text>
 	
