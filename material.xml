@@ -26,7 +26,7 @@ license:		creative commons CC-BY-NC-SA
 	
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, grid">
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>393a3b</color>
@@ -67,6 +67,22 @@ license:		creative commons CC-BY-NC-SA
 			<path>./art/box.png</path>
 			<color>424242</color>
 		</image> 
+		
+		<image name="logo">
+			<pos>0.5 0.03</pos>
+			<maxSize>0.55 0.1</maxSize>
+		</image>
+		
+		<text name="md_title">
+		<pos>0.01 0.2</pos>
+		<color>ffffff</color>
+		<fontPath>./art/Roboto-Regular.ttf</fontPath>
+		</text>
+		
+		<text name="md_grid">
+		<pos>0.02 0.2</pos>
+		<size>0.950 0.73</size>
+		</text>
 
 	</view>
 
@@ -80,9 +96,9 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>0</forceUppercase>
-			<pos>0.550 0.28</pos>
-			<size>0.360 0.50</size>
-			<alignment>left</alignment>
+			<pos>0.025 0.18</pos>
+			<size>0.950 0.73</size>
+			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 	

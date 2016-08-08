@@ -40,8 +40,8 @@
 			<size>1 0.065</size>
 			<color>ff0000</color>
 		</image>
-
-        <textlist name="gamelist">
+		
+		<textlist name="gamelist">
 			<selectorColor>ff0000</selectorColor>
 		</textlist>
 	</view>
@@ -50,6 +50,19 @@
 	</view>
 
 	<view name="detailed">
+	</view>
+	
+	<view name="grid">
+		
+		<text name="md_grid">
+			<pos>0.02 0.2</pos>
+			<size>0.950 0.7</size>
+		</text>
+	
+		<text name="md_title">
+			<pos>0.01 0.2</pos>
+			<color>ffffff</color>
+		</text>
 	</view>
 	
 </theme>

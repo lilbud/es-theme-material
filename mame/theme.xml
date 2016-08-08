@@ -53,4 +53,13 @@
 	<view name="detailed">
 	</view>
 	
+	<view name="grid">
+		
+		<text name="md_grid">
+			<pos>0.02 0.25</pos>
+			<size>0.950 0.7</size>
+		</text>
+
+	</view>
+	
 </theme>
