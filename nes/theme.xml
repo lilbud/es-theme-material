@@ -19,7 +19,7 @@
 		
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, grid">
 
 		<image name="logo">
 			<path>./logo.svg</path>
