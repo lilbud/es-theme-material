@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./scummvm.svg</path>
+			<path>./system.svg</path>
         </image>
 		
 	</view>

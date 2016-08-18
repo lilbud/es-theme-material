@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./nes2.svg</path>
+			<path>./system.svg</path>
         </image>
 		
 	</view>

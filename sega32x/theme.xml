@@ -14,7 +14,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./32x.svg</path>
+			<path>./system.svg</path>
         </image>
 
 	</view>
