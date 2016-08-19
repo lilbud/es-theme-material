@@ -87,17 +87,6 @@ license:		creative commons CC-BY-NC-SA
 			<maxSize>0.55 0.1</maxSize>
 		</image>
 
-		<text name="md_title">
-		<pos>.1 0.01</pos>
-		<color>ffffff</color>
-		<fontPath>./art/Roboto-Regular.ttf</fontPath>
-		</text>
-
-		<text name="md_grid">
-		<pos>0.16 .1</pos>
-		<size>.84 .835</size>
-		</text>
-
 	</view>
 
 	<view name="basic">
@@ -144,10 +133,11 @@ license:		creative commons CC-BY-NC-SA
 
 	<view name="grid">
 
-		<image name="logo">
-			<origin>0 0</origin>
-			<pos>.04 0.2</pos>
-			<size>0.15 0.55</size>
+		<image name="logo" extra="true">
+			<pos>.06 .5</pos> 
+			<origin>.08 .5</origin>
+			<maxSize>.1 .75</maxSize>
+			<size>.1 .6</size>
 		</image>
 
 		<image name="lefter" extra="true">
@@ -158,11 +148,30 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<image name="header" extra="true">
-			<path>./art/box.png</path>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 .1</size>
+			<path>null</path>
 		</image>
+
+		<image name="footer" extra="true">
+			<path>null</path>
+		</image>
+
+		<text name="md_title">
+			<pos>.16 .05</pos>
+			<alignment>center</alignment>
+			<size>.84 .05</size>
+			<color>ffffff</color>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+		</text>
+
+		<text name="md_grid">
+			<pos>0.16 .1</pos>
+			<size>.84 .9</size>
+		</text>
+
+		<helpsystem name="help">
+			<textColor>ffffff00</textColor>
+			<iconColor>ffffff00</iconColor>
+		</helpsystem>
 
 	</view>
 </theme>
