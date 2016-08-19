@@ -88,14 +88,14 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<text name="md_title">
-		<pos>0.01 0.2</pos>
+		<pos>.1 0.01</pos>
 		<color>ffffff</color>
 		<fontPath>./art/Roboto-Regular.ttf</fontPath>
 		</text>
 
 		<text name="md_grid">
-		<pos>0.02 0.26</pos>
-		<size>0.950 0.7</size>
+		<pos>0.16 .1</pos>
+		<size>.84 .835</size>
 		</text>
 
 	</view>
@@ -142,4 +142,27 @@ license:		creative commons CC-BY-NC-SA
 
 	</view>
 
+	<view name="grid">
+
+		<image name="logo">
+			<origin>0 0</origin>
+			<pos>.04 0.2</pos>
+			<size>0.15 0.55</size>
+		</image>
+
+		<image name="lefter" extra="true">
+			<path>./art/box.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>.16 1</size>
+		</image>
+
+		<image name="header" extra="true">
+			<path>./art/box.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 .1</size>
+		</image>
+
+	</view>
 </theme>
