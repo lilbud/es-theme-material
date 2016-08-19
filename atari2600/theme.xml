@@ -5,52 +5,33 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<tile>true</tile>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
-			<path>./../art/box.png</path>
 			<color>ff0000</color>
 		</image>
 
 		<image name="logo">
-			<path>./a2600.svg</path>
-        </image>
-		
+			<path>./system.svg</path>
+		</image>
+
 	</view>
 
 	<view name="basic, detailed, grid">
-	
+
 		<image name="logo">
 			<path>./logo.svg</path>
 		</image>
 
 		<image name="header" extra="true">
-			<path>./../art/box.png</path>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 0.16</size>
 			<color>ff0000</color>
 		</image>
 
 		<image name="footer" extra="true">
-			<path>./../art/box.png</path>
-			<pos>0 1</pos>
-			<origin>0 1</origin>
-			<size>1 0.065</size>
 			<color>ff0000</color>
 		</image>
-		
+
 		<textlist name="gamelist">
-			<selectorColor>1b1b1b</selectorColor>
+			<selectorColor>ff0000</selectorColor>
 		</textlist>
-	
-		</view>
 
-	<view name="basic">
 	</view>
 
-	<view name="detailed">
-	</view>
-	
 </theme>
