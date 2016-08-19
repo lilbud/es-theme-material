@@ -17,7 +17,8 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./system.svg</path>
+			<color>FFFFFF</color>
 		</image>
 
 		<image name="header" extra="true">
@@ -33,5 +34,21 @@
 		</textlist>
 
 	</view>
+
+	<view name="grid">
+
+		<image name="lefter" extra="true">
+			<color>2e3192</color>
+		</image>
+
+		<image name="header" extra="true">
+			<color>2e3192</color>
+		</image>
+
+		<image name="logo">
+			<path>./logo-vertical.svg</path>
+		</image>
+
+</view>
 
 </theme>
