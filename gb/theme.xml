@@ -33,5 +33,28 @@
 		</textlist>
 
 	</view>
+	
+	<view name="grid">
+		
+		<image name="header" extra="false">
+			<color>2e3192</color>
+		</image>
+	
+		<image name="lefter" extra="true">
+			<color>2e3192</color>
+			<path>./../art/box.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>.16 1</size>
+		</image>
+		
+		<image name="logo">
+			<path>./logo-vertical.svg</path>
+			<origin>0 0</origin>
+			<pos>.04 0.2</pos>
+			<size>0.15 0.55</size>
+		</image>
+	
+	</view>
 
 </theme>
