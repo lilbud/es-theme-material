@@ -133,11 +133,10 @@ license:		creative commons CC-BY-NC-SA
 
 	<view name="grid">
 
-		<image name="logo" extra="true">
-			<pos>.06 .5</pos> 
-			<origin>.08 .5</origin>
-			<maxSize>.1 .75</maxSize>
-			<size>.1 .6</size>
+		<image name="logo">
+			<origin>0 0</origin>
+			<pos>.04 .125</pos>
+			<size>0.15 0.75</size>
 		</image>
 
 		<image name="lefter" extra="true">
@@ -155,23 +154,25 @@ license:		creative commons CC-BY-NC-SA
 			<path>null</path>
 		</image>
 
-		<text name="md_title">
-			<pos>.16 .05</pos>
-			<alignment>center</alignment>
-			<size>.84 .05</size>
-			<color>ffffff</color>
-			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-		</text>
-
 		<text name="md_grid">
-			<pos>0.16 .1</pos>
-			<size>.84 .9</size>
+		<pos>0.15 0.03</pos>
+		<size>.84 .9</size>
 		</text>
-
-		<helpsystem name="help">
-			<textColor>ffffff00</textColor>
-			<iconColor>ffffff00</iconColor>
-		</helpsystem>
+		
+		<text name="md_title">
+			<color>424242</color>
+		</text>
+		
+		<ninepatch name="gridtile_background_selected">
+			<path>./art/selector.png</path>
+			<color>5486f7ff</color>
+		</ninepatch>
+		
+		<ninepatch name="gridtile_background">
+			<path>./art/selector.png</path>
+			<color>42424200</color>
+		</ninepatch>
 
 	</view>
+
 </theme>
