@@ -37,16 +37,12 @@
 
 	<view name="grid">
 
-		<image name="lefter" extra="true">
-			<color>1f70c1</color>
-		</image>
-
-		<image name="header" extra="true">
+		<image name="righter, header, footer" extra="true">
 			<color>1f70c1</color>
 		</image>
 
 		<image name="logo">
-			<path>./logo-vertical.svg</path>
+			<path>./logo.svg</path>
 		</image>
 
 </view>
