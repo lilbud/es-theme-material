@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>deba27</color>
+			<color>fe6a00</color>
 		</image>
 
 		<image name="logo">
@@ -17,36 +17,32 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./logo.svg</path>
 			<color>FFFFFF</color>
 		</image>
 
 		<image name="header" extra="true">
-			<color>deba27</color>
+			<color>fe6a00</color>
 		</image>
 
 		<image name="footer" extra="true">
-			<color>deba27</color>
+			<color>fe6a00</color>
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>deba27</selectorColor>
+			<selectorColor>fe6a00</selectorColor>
 		</textlist>
 
 	</view>
 
 	<view name="grid">
 
-		<image name="lefter" extra="true">
-			<color>deba27</color>
-		</image>
-
-		<image name="header" extra="true">
-			<color>deba27</color>
+		<image name="righter, header, footer" extra="true">
+			<color>fe6a00</color>
 		</image>
 
 		<image name="logo">
-			<path>./logo-vertical.svg</path>
+			<path>./logo.svg</path>
 		</image>
 
 </view>
