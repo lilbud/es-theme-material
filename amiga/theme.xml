@@ -42,7 +42,7 @@
 		</image>
 		
 		<image name="logo">
-			<path>./logo-vertical.svg</path>
+			<path>./logo.svg</path>
 		</image>
 
 </view>
