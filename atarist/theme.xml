@@ -37,11 +37,7 @@
 
 	<view name="grid">
 
-		<image name="lefter" extra="true">
-			<color>4ab7ed</color>
-		</image>
-
-		<image name="header" extra="true">
+		<image name="righter, header, footer" extra="true">
 			<color>4ab7ed</color>
 		</image>
 
