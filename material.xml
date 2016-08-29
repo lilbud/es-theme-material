@@ -135,15 +135,15 @@ license:		creative commons CC-BY-NC-SA
 
 		<image name="logo">
 			<origin>0 0</origin>
-			<pos>.04 .125</pos>
-			<size>0.15 0.75</size>
+			<pos>0.725 0.057</pos>
+			<maxSize>0.26 0.1</maxSize>
 		</image>
 
-		<image name="lefter" extra="true">
+		<image name="righter" extra="true">
 			<path>./art/box.png</path>
-			<pos>0 0</pos>
+			<pos>.71 0</pos>
 			<origin>0 0</origin>
-			<size>.16 1</size>
+			<size>.29 1</size>
 		</image>
 
 		<image name="header" extra="true">
@@ -155,8 +155,8 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<text name="md_grid">
-		<pos>0.15 0.03</pos>
-		<size>.84 .9</size>
+			<pos>0.047 0.058</pos>
+			<size>.6 .8</size>
 		</text>
 		
 		<text name="md_title">
@@ -165,7 +165,6 @@ license:		creative commons CC-BY-NC-SA
 		
 		<ninepatch name="gridtile_background_selected">
 			<path>./art/selector.png</path>
-			<color>5486f7ff</color>
 		</ninepatch>
 		
 		<ninepatch name="gridtile_background">
