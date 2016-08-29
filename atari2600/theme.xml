@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>ff0000</color>
+			<color>ba0001</color>
 		</image>
 
 		<image name="logo">
@@ -22,31 +22,27 @@
 		</image>
 
 		<image name="header" extra="true">
-			<color>ff0000</color>
+			<color>ba0001</color>
 		</image>
 
 		<image name="footer" extra="true">
-			<color>ff0000</color>
+			<color>ba0001</color>
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>ff0000</selectorColor>
+			<selectorColor>ba0001</selectorColor>
 		</textlist>
 
 	</view>
 
 	<view name="grid">
 
-		<image name="lefter" extra="true">
-			<color>ff0000</color>
-		</image>
-
-		<image name="header" extra="true">
-			<color>ff0000</color>
+		<image name="righter, header, footer" extra="true">
+			<color>ba0001</color>
 		</image>
 
 		<image name="logo">
-			<path>./logo-vertical.svg</path>
+			<path>./logo.svg</path>
 		</image>
 
 </view>
