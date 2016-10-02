@@ -207,6 +207,7 @@ license:		creative commons CC-BY-NC-SA
 			<size>0.028 0.028</size>
 			<filledPath>./art/star_filled_spacing.svg</filledPath>
 			<unfilledPath>./art/star_hollow_3_spacing.svg</unfilledPath>
+                        <color>ffffff</color>
 		</rating>
 		
 		<text name="md_lbl_releasedate">
