@@ -7,7 +7,7 @@ license:		creative commons CC-BY-NC-SA
 -->
 
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>4</formatVersion>
 
 	<view name="system">
 
@@ -161,17 +161,92 @@ license:		creative commons CC-BY-NC-SA
 		
 		<text name="md_title">
 			<color>424242</color>
+			<pos>1 1</pos>
 		</text>
 		
-		<ninepatch name="gridtile_background_selected">
+		<text name="md_description">
+			<color>ffffff</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.262 0.323</size>
+			<pos>0.721 0.343</pos>
+		</text>
+		
+		<text name="md_lbl_rating">
+			<color>ffffff</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.12 0.04</size>
+			<pos>0.721 0.17</pos>
+		</text>
+		
+		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+			<color>ffffff</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.12 0.04</size>
+		</text>
+		
+		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_releasedate">
+			<color>ffffff</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.14 0.04</size>
+		</text>
+
+		<container name="md_grid_margin"> 
+			<size>0.02 0.02</size>
+		</container>
+		
+		<rating name="md_rating">
+			<pos>0.78 0.175</pos>
+			<size>0.028 0.028</size>
+			<filledPath>./art/star_filled_spacing.svg</filledPath>
+			<unfilledPath>./art/star_hollow_3_spacing.svg</unfilledPath>
+		</rating>
+		
+		<text name="md_lbl_releasedate">
+			<pos>0.721 0.22</pos>
+			<size>0.12 0.04</size>
+		</text>
+		
+		<datetime name="md_releasedate">
+			<pos>0.8 0.22</pos>
+		</datetime>
+		
+		<text name="md_lbl_players">
+			<pos>0.721 0.27</pos>
+			<size>0.12 0.04</size>
+		</text>
+		
+		<text name="md_players">
+			<pos>0.79 0.27</pos>
+		</text>
+		
+		<ninepatch name="gridtile_background_selected" >
 			<path>./art/selector.png</path>
+			<color>ffffff</color>
 		</ninepatch>
 		
 		<ninepatch name="gridtile_background">
 			<path>./art/selector.png</path>
 			<color>42424200</color>
 		</ninepatch>
+		
+		<text name="gridtile_text">
+			<color>00000000</color>
+		</text>
+		
+		<container name="gridRowsAndColumns">
+			<size>4 3</size>
+		</container>
 
 	</view>
+	
+
 
 </theme>
