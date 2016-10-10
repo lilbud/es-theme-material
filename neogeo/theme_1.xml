@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>31afe1</color>
+			<color>5b74bc</color>
 		</image>
 
 		<image name="logo">
@@ -17,20 +17,20 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./system.svg</path>
 			<color>FFFFFF</color>
 		</image>
 
 		<image name="header" extra="true">
-			<color>31afe1</color>
+			<color>5b74bc</color>
 		</image>
 
 		<image name="footer" extra="true">
-			<color>31afe1</color>
+			<color>5b74bc</color>
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>31afe1</selectorColor>
+			<selectorColor>5b74bc</selectorColor>
 		</textlist>
 
 	</view>
@@ -38,15 +38,11 @@
 	<view name="grid">
 
 		<image name="righter, header, footer" extra="true">
-			<color>31afe1</color>
+			<color>5b74bc</color>
 		</image>
 
 		<image name="logo">
 			<path>./logo.svg</path>
-		</image>
-		
-		<image name="gridtile_background_selected">
-			<color>31afe1</color>
 		</image>
 
 </view>

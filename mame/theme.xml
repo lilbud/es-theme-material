@@ -17,7 +17,7 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./logo.svg</path>
 			<color>FFFFFF</color>
 		</image>
 
@@ -48,6 +48,10 @@
 		<container name="gridRowsAndColumns">
 			<size>4 3</size>
 		</container>
+		
+		<image name="gridtile_background_selected">
+			<color>328db7</color>
+		</image>
 
 </view>
 

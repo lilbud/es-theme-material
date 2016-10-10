@@ -17,8 +17,8 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./system.svg</path>
-			<color>FFFFFF</color>
+			<path>./logo.svg</path>
+			<color>ff0000</color>
 		</image>
 
 		<image name="header" extra="true">
@@ -40,9 +40,13 @@
 		<image name="righter, header, footer" extra="true">
 			<color>ff0000</color>
 		</image>
-		
+
 		<image name="logo">
 			<path>./logo.svg</path>
+		</image>
+		
+		<image name="gridtile_background_selected">
+			<color>ff0000</color>
 		</image>
 
 </view>

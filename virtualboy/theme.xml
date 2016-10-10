@@ -17,7 +17,7 @@
 	<view name="basic, detailed, grid">
 
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./logo.svg</path>
 			<color>FFFFFF</color>
 		</image>
 
@@ -46,9 +46,9 @@
 			<pos>0.745 0.057</pos>
 		</image>
 		
-		<ninepatch name="gridtile_background_selected">
+		<image name="gridtile_background_selected">
 			<color>ce021b</color>
-		</ninepatch>
+		</image>
 		
 		<container name="gridRowsAndColumns">
 			<size>4 3</size>
