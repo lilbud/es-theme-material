@@ -227,15 +227,14 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.79 0.27</pos>
 		</text>
 		
-		<ninepatch name="gridtile_background_selected" >
+		<image name="gridtile_background_selected" >
 			<path>./art/selector.png</path>
-			<color>ffffff</color>
-		</ninepatch>
+		</image>
 		
-		<ninepatch name="gridtile_background">
+		<image name="gridtile_background">
 			<path>./art/selector.png</path>
 			<color>42424200</color>
-		</ninepatch>
+		</image>
 		
 		<text name="gridtile_text">
 			<color>00000000</color>
@@ -243,6 +242,10 @@ license:		creative commons CC-BY-NC-SA
 		
 		<container name="gridRowsAndColumns">
 			<size>4 3</size>
+		</container>
+		
+		<container name="md_grid_margin">
+			<size>0.03 0.03</size>
 		</container>
 
 	</view>
