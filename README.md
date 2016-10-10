@@ -1,5 +1,5 @@
 # es-theme-material
-Theme 'Material' v1.3 - 05-29-2016 by Lilbud
+Theme 'Material' v2 - 10-9-16 by Lilbud
 based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
 For use with EmulationStation (http://www.emulationstation.org/)
 
@@ -8,7 +8,11 @@ Thanks to Herbfargus and Rookervik for testing and helping get this theme functi
 Changelog
 =========
 
-Fixed White/Black screen of death
+Added gridview support
+
+Added Systems:
+Virtual Boy
+Gamecube
 
 Missing systems in the theme
 ============================
