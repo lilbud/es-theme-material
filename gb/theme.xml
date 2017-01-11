@@ -45,10 +45,10 @@
 			<path>./logo.svg</path>
 		</image>
 		
-		<ninepatch name="gridtile_background_selected">
+<!--		<ninepatch name="gridtile_background_selected">
 			<color>2e3192</color>
 		</ninepatch>
-		
+-->		
 		<container name="gridRowsAndColumns">
 			<size>4 3</size>
 		</container>
