@@ -37,7 +37,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>1 1</pos>
 		</text>
 
-		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
@@ -190,7 +190,7 @@ license:		creative commons CC-BY-NC-SA
 			<size>0.12 0.04</size>
 		</text>
 		
-		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_releasedate">
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_releasedate">
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
