@@ -46,6 +46,10 @@
 			<pos>0.745 0.057</pos>
 		</image>
 		
+		<gridtile name="selected">
+			<backgroundColor>ce021b</backgroundColor>
+		</gridtile>
+
 		<image name="gridtile_background_selected">
 			<color>ce021b</color>
 		</image>

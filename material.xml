@@ -164,6 +164,31 @@ license:		creative commons CC-BY-NC-SA
 			<pos>1 1</pos>
 		</text>
 		
+
+		<imagegrid name="gamegrid">
+			<pos>0.047 0.118</pos>
+			<size>.6 .8</size>
+			<margin>0.03 0.03</margin>
+			<autoLayout>4 3</autoLayout>
+		</imagegrid>
+
+		<gridtile name="default">
+			<size>0.18 0.1775</size>
+			<backgroundImage>./art/selector.png</backgroundImage>
+			<backgroundColor>42424200</backgroundColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<size>0.18 0.24</size>
+
+		</gridtile>	
+
+		<text name="md_name">
+			<pos>0.347 0.02</pos>
+			<origin>0.5 0</origin>
+			<color>FFFFFF</color>
+		</text>
+		
 		<text name="md_description">
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
