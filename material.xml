@@ -223,10 +223,6 @@ license:		creative commons CC-BY-NC-SA
 			<size>0.14 0.04</size>
 		</text>
 
-		<container name="md_grid_margin"> 
-			<size>0.02 0.02</size>
-		</container>
-		
 		<rating name="md_rating">
 			<pos>0.78 0.175</pos>
 			<size>0.028 0.028</size>
