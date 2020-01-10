@@ -45,6 +45,10 @@
 			<path>./logo.svg</path>
 		</image>
 		
+		<gridtile name="selected">
+			<backgroundColor>ff594e</backgroundColor>
+		</gridtile>
+
 		<image name="gridtile_background_selected">
 			<color>ff594e</color>
 		</image>

@@ -49,6 +49,10 @@
 			<size>4 3</size>
 		</container>
 		
+		<gridtile name="selected">
+			<backgroundColor>019546</backgroundColor>
+		</gridtile>
+
 		<image name="gridtile_background_selected">
 			<color>019546</color>
 		</image>
